@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpeedaRJ (Robert J)
+- 👋 Hi, I’m @SpeedaRJ (Robert Jutreša)
 - 👀 I’m interested in web pages and building/creating solutions to problems using applications.
 - 🌱 I’m currently learning science and expanding my coding knowledge.
 - 💞️ I’m looking to collaborate on data science and web design projects.
