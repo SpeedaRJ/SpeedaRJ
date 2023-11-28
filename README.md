@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert Jutreša</h1>
+<h1 align="center">Hi 👋, I'm Robert J</h1>
 <h3 align="center">A student with big dreams and a lot of plans</h3>
 
 - 🔭 I’m currently working on **Statistical Analysis of Basketball Shots and DeepFakes**
