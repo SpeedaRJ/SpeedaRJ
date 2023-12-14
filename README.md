@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/robert jutreša" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert jutreša" height="30" width="40" /></a>
 <a href="https://kaggle.com/speedarj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="speedarj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/speedarj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="speedarj" height="30" width="40" /></a>
+<a href="https://huggingface.co/SpeedaRJ" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
