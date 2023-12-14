@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/robert jutreša" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert jutreša" height="30" width="30" /></a>
-<a href="https://kaggle.com/speedarj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="speedarj" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/speedarj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="speedarj" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/robert-jutreša-215655227" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert jutreša" height="30" width="30" /></a>
+<a href="https://kaggle.com/speedarj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="speedarj" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/speedarj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="speedarj" height="30" width="30" /></a>
 <a href="https://huggingface.co/SpeedaRJ" target="_blank" rel="noreferrer"> <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="speedarj" width="30" height="30"/> </a>
 </p>
 
