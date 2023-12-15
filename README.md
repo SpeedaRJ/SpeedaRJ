@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Statistical Analysis of Basketball Shots and DeepFakes**
 
-- 🌱 I’m currently learning **Statistical Analysis, Game Design, ML**
-
-- 🤝 I’m looking for help with **Game development**
+- 🌱 I’m currently learning **Statistical Analysis, Game Design, and Machine Learning**
 
 - 💬 Ask me about **Anything**
 
