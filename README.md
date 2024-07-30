@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robert J</h1>
 <h3 align="center">A student with big dreams and a lot of plans</h3>
 
-- 🔭 I’m currently working on **Statistical Analysis of Basketball Shots and DeepFakes**
+- 🔭 I’m currently working on **Explainable AI in the field of Face Recognition Models**
 
-- 🌱 I’m currently learning **Statistical Analysis, Game Design, and Machine Learning**
+- 🌱 I’m currently learning **Game Design, Machine Learning and Workflow Enrichment via AI**
 
 - 💬 Ask me about **Anything**
 
